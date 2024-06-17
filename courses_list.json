@@ -1,0 +1,1220 @@
+{
+  "courses": [
+    {
+      "name": "Archaeology and history of art",
+      "code": "N70",
+      "department": "DIPARTIMENTO DI STUDI UMANISTICI",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N70"
+    },
+    {
+      "name": "Archeology, history of arts and science of artistic heritage",
+      "code": "P14",
+      "department": "DIPARTIMENTO DI STUDI UMANISTICI",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P14"
+    },
+    {
+      "name": "Architecture and heritage",
+      "code": "P53",
+      "department": "DIPARTIMENTO DI ARCHITETTURA",
+      "type": "Laurea Magistrale",
+      "language": "English",
+      "link": "https://www.corsi.unina.it/P53"
+    },
+    {
+      "name": "Architettura",
+      "code": "D06",
+      "department": "DIPARTIMENTO DI ARCHITETTURA",
+      "type": "Laurea Magistrale Ciclo Unico 5 anni",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/D06"
+    },
+    {
+      "name": "Architecture",
+      "code": "N14",
+      "department": "DIPARTIMENTO DI ARCHITETTURA",
+      "type": "Laurea Magistrale Ciclo Unico 5 anni",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N14"
+    },
+    {
+      "name": "Architecture (architectural design)",
+      "code": "N17",
+      "department": "DIPARTIMENTO DI ARCHITETTURA",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N17"
+    },
+    {
+      "name": "Architecture for communities, territories and evironment",
+      "code": "D07",
+      "department": "DIPARTIMENTO DI ARCHITETTURA",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/D07"
+    },
+    {
+      "name": "Autonomous vehicle engineering",
+      "code": "D18",
+      "department": "DIPARTIMENTO DI INGEGNERIA INDUSTRIALE",
+      "type": "Laurea Magistrale",
+      "language": "English",
+      "link": "https://www.corsi.unina.it/D18"
+    },
+    {
+      "name": "Industrial bioengineering",
+      "code": "P16",
+      "department": "DIPARTIMENTO DI INGEGNERIA CHIMICA, DEI MATERIALI E DELLA PRODUZIONE INDUSTRIALE",
+      "type": "Laurea Magistrale",
+      "language": "English",
+      "link": "https://www.corsi.unina.it/P16"
+    },
+    {
+      "name": "Biologia",
+      "code": "P30",
+      "department": "DIPARTIMENTO DI BIOLOGIA",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P30"
+    },
+    {
+      "name": "Biology",
+      "code": "P58",
+      "department": "DIPARTIMENTO DI BIOLOGIA",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P58"
+    },
+    {
+      "name": "Biology of extreme environments",
+      "code": "P54",
+      "department": "DIPARTIMENTO DI BIOLOGIA",
+      "type": "Laurea Magistrale",
+      "language": "English",
+      "link": "https://www.corsi.unina.it/P54"
+    },
+    {
+      "name": "Plant, environment and food biotechnology",
+      "code": "P07",
+      "department": "DIPARTIMENTO DI AGRARIA",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P07"
+    },
+    {
+      "name": "Medical biotechnologies",
+      "code": "N79",
+      "department": "DIPARTIMENTO DI MEDICINA MOLECOLARE E BIOTECNOLOGIE MEDICHE",
+      "type": "Laurea Magistrale",
+      "language": "Italian; English",
+      "link": "https://www.corsi.unina.it/N79"
+    },
+    {
+      "name": "Industrial and molecular biotechnology",
+      "code": "N80",
+      "department": "DIPARTIMENTO DI SCIENZE CHIMICHE",
+      "type": "Laurea Magistrale",
+      "language": "Italian; English",
+      "link": "https://www.corsi.unina.it/N80"
+    },
+    {
+      "name": "Health biotechnology",
+      "code": "N76",
+      "department": "DIPARTIMENTO DI MEDICINA MOLECOLARE E BIOTECNOLOGIE MEDICHE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N76"
+    },
+    {
+      "name": "Pharmaceutical chemistry and technology",
+      "code": "D09",
+      "department": "DIPARTIMENTO DI FARMACIA",
+      "type": "Laurea Magistrale Ciclo Unico 5 anni",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/D09"
+    },
+    {
+      "name": "Quality control",
+      "code": "D08",
+      "department": "DIPARTIMENTO DI FARMACIA",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/D08"
+    },
+    {
+      "name": "Public, social and political communication",
+      "code": "M15",
+      "department": "DIPARTIMENTO DI SCIENZE SOCIALI",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M15"
+    },
+    {
+      "name": "Coordination of educational services for early childhood and for social disadvantage",
+      "code": "P56",
+      "department": "DIPARTIMENTO DI STUDI UMANISTICI",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P56"
+    },
+    {
+      "name": "Biomolecular and industrial biotechnology",
+      "code": "N75",
+      "department": "DIPARTIMENTO DI SCIENZE CHIMICHE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N75"
+    },
+    {
+      "name": "1st degree in chemistry",
+      "code": "N83",
+      "department": "DIPARTIMENTO DI SCIENZE CHIMICHE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N83"
+    },
+    {
+      "name": "Industrial chemistry",
+      "code": "N84",
+      "department": "DIPARTIMENTO DI SCIENZE CHIMICHE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N84"
+    },
+    {
+      "name": "Community design",
+      "code": "P42",
+      "department": "DIPARTIMENTO DI ARCHITETTURA",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P42"
+    },
+    {
+      "name": "Dietistic",
+      "code": "M89",
+      "department": "DIPARTIMENTO DI MEDICINA CLINICA E CHIRURGIA",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M89"
+    },
+    {
+      "name": "Disciplines of music and performance arts. history and theory",
+      "code": "P15",
+      "department": "DIPARTIMENTO DI STUDI UMANISTICI",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P15"
+    },
+    {
+      "name": "Business economics",
+      "code": "N22",
+      "department": "DIPARTIMENTO DI ECONOMIA, MANAGEMENT, ISTITUZIONI",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N22"
+    },
+    {
+      "name": "Business economics",
+      "code": "N27",
+      "department": "DIPARTIMENTO DI ECONOMIA, MANAGEMENT, ISTITUZIONI",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N27"
+    },
+    {
+      "name": "Financial institutions management",
+      "code": "N23",
+      "department": "DIPARTIMENTO DI SCIENZE ECONOMICHE E STATISTICHE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N23"
+    },
+    {
+      "name": "Economics and commerce",
+      "code": "N24",
+      "department": "DIPARTIMENTO DI SCIENZE ECONOMICHE E STATISTICHE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N24"
+    },
+    {
+      "name": "Economia e commercio",
+      "code": "N28",
+      "department": "DIPARTIMENTO DI SCIENZE ECONOMICHE E STATISTICHE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N28"
+    },
+    {
+      "name": "Economics and finance",
+      "code": "P09",
+      "department": "DIPARTIMENTO DI SCIENZE ECONOMICHE E STATISTICHE",
+      "type": "Laurea Magistrale",
+      "language": "English",
+      "link": "https://www.corsi.unina.it/P09"
+    },
+    {
+      "name": "Pharmacy",
+      "code": "D10",
+      "department": "DIPARTIMENTO DI FARMACIA",
+      "type": "Laurea Magistrale Ciclo Unico 5 anni",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/D10"
+    },
+    {
+      "name": "Modern philology",
+      "code": "D30",
+      "department": "DIPARTIMENTO DI STUDI UMANISTICI",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/D30"
+    },
+    {
+      "name": "Bachelor's Degree Courses",
+      "code": "NA",
+      "department": "NA",
+      "type": "Bachelor's Degree",
+      "language": "NA",
+      "link": "https://www.corsi.unina.it/"
+    },
+    {
+      "name": "Departments",
+      "code": "NA",
+      "department": "NA",
+      "type": "NA",
+      "language": "NA",
+      "link": "https://www.corsi.unina.it/dipartimenti"
+    },
+    {
+      "name": "Schools",
+      "code": "NA",
+      "department": "NA",
+      "type": "NA",
+      "language": "NA",
+      "link": "https://www.corsi.unina.it/scuole"
+    },
+    {
+      "name": "Hospitality management",
+      "code": "P31",
+      "department": "DIPARTIMENTO DI ECONOMIA, MANAGEMENT, ISTITUZIONI",
+      "type": "Laurea",
+      "language": "Italian; English",
+      "link": "https://www.corsi.unina.it/P31"
+    },
+    {
+      "name": "Dental hygiene",
+      "code": "M88",
+      "department": "DIPARTIMENTO DI NEUROSCIENZE E SCIENZE RIPRODUTTIVE ED ODONTOSTOMATOLOGICHE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M88"
+    },
+    {
+      "name": "Nursing",
+      "code": "M75",
+      "department": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M75"
+    },
+    {
+      "name": "Pediatric nursing",
+      "code": "M76",
+      "department": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M76"
+    },
+    {
+      "name": "2nd degree in computer science",
+      "code": "N97",
+      "department": "DIPARTIMENTO DI INGEGNERIA ELETTRICA E TECNOLOGIE DELL'INFORMAZIONE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N97"
+    },
+    {
+      "name": "Aerospace engineering",
+      "code": "M53",
+      "department": "DIPARTIMENTO DI INGEGNERIA INDUSTRIALE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M53"
+    },
+    {
+      "name": "Aerospace engineering",
+      "code": "N35",
+      "department": "DIPARTIMENTO DI INGEGNERIA INDUSTRIALE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N35"
+    },
+    {
+      "name": "Biomedical engineering",
+      "code": "M54",
+      "department": "DIPARTIMENTO DI INGEGNERIA ELETTRICA E TECNOLOGIE DELL'INFORMAZIONE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M54"
+    },
+    {
+      "name": "Biomedical engineering",
+      "code": "P46",
+      "department": "DIPARTIMENTO DI INGEGNERIA ELETTRICA E TECNOLOGIE DELL'INFORMAZIONE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P46"
+    },
+    {
+      "name": "Chemical engineering",
+      "code": "M55",
+      "department": "DIPARTIMENTO DI INGEGNERIA CHIMICA, DEI MATERIALI E DELLA PRODUZIONE INDUSTRIALE",
+      "type": "Laurea Magistrale",
+      "language": "Italian; English",
+      "link": "https://www.corsi.unina.it/M55"
+    },
+    {
+      "name": "Civil engineering",
+      "code": "D12",
+      "department": "DIPARTIMENTO DI INGEGNERIA CIVILE, EDILE E AMBIENTALE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/D12"
+    },
+    {
+      "name": "Civil engineering",
+      "code": "N38",
+      "department": "DIPARTIMENTO DI INGEGNERIA CIVILE, EDILE E AMBIENTALE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N38"
+    },
+    {
+      "name": "Civil engineering for hydraulics and transportation",
+      "code": "D14",
+      "department": "DIPARTIMENTO DI INGEGNERIA CIVILE, EDILE E AMBIENTALE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/D14"
+    },
+    {
+      "name": "Materials engineering",
+      "code": "D11",
+      "department": "DIPARTIMENTO DI INGEGNERIA CHIMICA, DEI MATERIALI E DELLA PRODUZIONE INDUSTRIALE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/D11"
+    },
+    {
+      "name": "Materials engineering",
+      "code": "M68",
+      "department": "DIPARTIMENTO DI INGEGNERIA CHIMICA, DEI MATERIALI E DELLA PRODUZIONE INDUSTRIALE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M68"
+    },
+    {
+      "name": "Hydraulic and trasportation systems engineering",
+      "code": "M57",
+      "department": "DIPARTIMENTO DI INGEGNERIA CIVILE, EDILE E AMBIENTALE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M57"
+    },
+    {
+      "name": "Automation engineering and robotics",
+      "code": "P38",
+      "department": "DIPARTIMENTO DI INGEGNERIA ELETTRICA E TECNOLOGIE DELL'INFORMAZIONE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P38"
+    },
+    {
+      "name": "Engineering of infrastructures and services",
+      "code": "P57",
+      "department": "DIPARTIMENTO DI INGEGNERIA CIVILE, EDILE E AMBIENTALE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P57"
+    },
+    {
+      "name": "Telecommunications and digital media engineering",
+      "code": "P39",
+      "department": "DIPARTIMENTO DI INGEGNERIA ELETTRICA E TECNOLOGIE DELL'INFORMAZIONE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P39"
+    },
+    {
+      "name": "Telecommunication and digital media engineering",
+      "code": "P49",
+      "department": "DIPARTIMENTO DI INGEGNERIA ELETTRICA E TECNOLOGIE DELL'INFORMAZIONE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P49"
+    },
+    {
+      "name": "Building engineering",
+      "code": "N41",
+      "department": "DIPARTIMENTO DI INGEGNERIA CIVILE, EDILE E AMBIENTALE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N41"
+    },
+    {
+      "name": "Building engineering",
+      "code": "N51",
+      "department": "DIPARTIMENTO DI INGEGNERIA CIVILE, EDILE E AMBIENTALE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N51"
+    },
+    {
+      "name": "Architecture and building engineering",
+      "code": "P71",
+      "department": "DIPARTIMENTO DI INGEGNERIA CIVILE, EDILE E AMBIENTALE",
+      "type": "Laurea Magistrale Ciclo Unico 5 anni",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P71"
+    },
+    {
+      "name": "Electrical engineering",
+      "code": "D15",
+      "department": "DIPARTIMENTO DI INGEGNERIA ELETTRICA E TECNOLOGIE DELL'INFORMAZIONE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/D15"
+    },
+    {
+      "name": "Electrical engineering",
+      "code": "M60",
+      "department": "DIPARTIMENTO DI INGEGNERIA ELETTRICA E TECNOLOGIE DELL'INFORMAZIONE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M60"
+    },
+    {
+      "name": "Electronic engineering",
+      "code": "M61",
+      "department": "DIPARTIMENTO DI INGEGNERIA ELETTRICA E TECNOLOGIE DELL'INFORMAZIONE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M61"
+    },
+    {
+      "name": "Electronic engineering",
+      "code": "N43",
+      "department": "DIPARTIMENTO DI INGEGNERIA ELETTRICA E TECNOLOGIE DELL'INFORMAZIONE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N43"
+    },
+    {
+      "name": "Management engineering",
+      "code": "M62",
+      "department": "DIPARTIMENTO DI INGEGNERIA INDUSTRIALE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M62"
+    },
+    {
+      "name": "Construction engineering management",
+      "code": "D13",
+      "department": "DIPARTIMENTO DI INGEGNERIA CIVILE, EDILE E AMBIENTALE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/D13"
+    },
+    {
+      "name": "Computer engineering",
+      "code": "M63",
+      "department": "DIPARTIMENTO DI INGEGNERIA ELETTRICA E TECNOLOGIE DELL'INFORMAZIONE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M63"
+    },
+    {
+      "name": "Computer engineering",
+      "code": "N46",
+      "department": "DIPARTIMENTO DI INGEGNERIA ELETTRICA E TECNOLOGIE DELL'INFORMAZIONE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N46"
+    },
+    {
+      "name": "Mathematical engineering",
+      "code": "P17",
+      "department": "DIPARTIMENTO DI MATEMATICA E APPLICAZIONI 'RENATO CACCIOPPOLI'",
+      "type": "Laurea Magistrale",
+      "language": "English",
+      "link": "https://www.corsi.unina.it/P17"
+    },
+    {
+      "name": "Mechanical engineering",
+      "code": "P72",
+      "department": "DIPARTIMENTO DI INGEGNERIA INDUSTRIALE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P72"
+    },
+    {
+      "name": "Mechanical engineering for energy and environment",
+      "code": "D20",
+      "department": "DIPARTIMENTO DI INGEGNERIA INDUSTRIALE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/D20"
+    },
+    {
+      "name": "Mechanical engineering for design and manufacturing.",
+      "code": "D19",
+      "department": "DIPARTIMENTO DI INGEGNERIA INDUSTRIALE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/D19"
+    },
+    {
+      "name": "Mechanical engineering for design and manufacturing.",
+      "code": "M64",
+      "department": "DIPARTIMENTO DI INGEGNERIA INDUSTRIALE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M64"
+    },
+    {
+      "name": "Naval architecture and marine engineering",
+      "code": "D17",
+      "department": "DIPARTIMENTO DI INGEGNERIA INDUSTRIALE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/D17"
+    },
+    {
+      "name": "Naval architecture and marine engineering",
+      "code": "D21",
+      "department": "DIPARTIMENTO DI INGEGNERIA INDUSTRIALE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/D21"
+    },
+    {
+      "name": "Naval engineering",
+      "code": "M66",
+      "department": "DIPARTIMENTO DI INGEGNERIA INDUSTRIALE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M66"
+    },
+    {
+      "name": "Naval architecture and marine engineering",
+      "code": "P23",
+      "department": "DIPARTIMENTO DI INGEGNERIA INDUSTRIALE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P23"
+    },
+    {
+      "name": "Ingegneria per l'ambiente e il territorio",
+      "code": "M67",
+      "department": "DIPARTIMENTO DI INGEGNERIA CIVILE, EDILE E AMBIENTALE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M67"
+    },
+    {
+      "name": "Ingegneria per l'ambiente e il territorio",
+      "code": "P70",
+      "department": "DIPARTIMENTO DI INGEGNERIA CIVILE, EDILE E AMBIENTALE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P70"
+    },
+    {
+      "name": "Structural and geotechnical engineering",
+      "code": "D28",
+      "department": "DIPARTIMENTO DI STRUTTURE PER L'INGEGNERIA E L'ARCHITETTURA",
+      "type": "Laurea Magistrale",
+      "language": "Italian; English",
+      "link": "https://www.corsi.unina.it/D28"
+    },
+    {
+      "name": "Innovation and international management",
+      "code": "P32",
+      "department": "DIPARTIMENTO DI ECONOMIA, MANAGEMENT, ISTITUZIONI",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P32"
+    },
+    {
+      "name": "Social innovation",
+      "code": "P45",
+      "department": "DIPARTIMENTO DI SCIENZE SOCIALI",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P45"
+    },
+    {
+      "name": "International relations",
+      "code": "D26",
+      "department": "DIPARTIMENTO DI SCIENZE POLITICHE",
+      "type": "Laurea Magistrale",
+      "language": "English",
+      "link": "https://www.corsi.unina.it/D26"
+    },
+    {
+      "name": "Classics",
+      "code": "N59",
+      "department": "DIPARTIMENTO DI STUDI UMANISTICI",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N59"
+    },
+    {
+      "name": "Modern literary studies",
+      "code": "N60",
+      "department": "DIPARTIMENTO DI STUDI UMANISTICI",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N60"
+    },
+    {
+      "name": "Lingue e letterature per il plurilinguismo europeo",
+      "code": "P60",
+      "department": "DIPARTIMENTO DI STUDI UMANISTICI",
+      "type": "Laurea Magistrale",
+      "language": "English",
+      "link": "https://www.corsi.unina.it/P60"
+    },
+    {
+      "name": "Modern european languages cultures and literatures",
+      "code": "N62",
+      "department": "DIPARTIMENTO DI STUDI UMANISTICI",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N62"
+    },
+    {
+      "name": "Speech and language therapy",
+      "code": "M79",
+      "department": "DIPARTIMENTO DI NEUROSCIENZE E SCIENZE RIPRODUTTIVE ED ODONTOSTOMATOLOGICHE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M79"
+    },
+    {
+      "name": "Management of cultural heritage",
+      "code": "P18",
+      "department": "DIPARTIMENTO DI STUDI UMANISTICI",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P18"
+    },
+    {
+      "name": "Marine biology and aquacolture",
+      "code": "P59",
+      "department": "DIPARTIMENTO DI BIOLOGIA",
+      "type": "Laurea Magistrale",
+      "language": "English",
+      "link": "https://www.corsi.unina.it/P59"
+    },
+    {
+      "name": "Mathematics",
+      "code": "P62",
+      "department": "DIPARTIMENTO DI MATEMATICA E APPLICAZIONI 'RENATO CACCIOPPOLI'",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P62"
+    },
+    {
+      "name": "Mathematical engineering",
+      "code": "D22",
+      "department": "DIPARTIMENTO DI MATEMATICA E APPLICAZIONI 'RENATO CACCIOPPOLI'",
+      "type": "Laurea Magistrale",
+      "language": "English",
+      "link": "https://www.corsi.unina.it/D22"
+    },
+    {
+      "name": "Mechatronics",
+      "code": "D36",
+      "department": "DIPARTIMENTO DI INGEGNERIA ELETTRICA E TECNOLOGIE DELL'INFORMAZIONE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/D36"
+    },
+    {
+      "name": "Medicina e chirurgia",
+      "code": "P11",
+      "department": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+      "type": "Laurea Magistrale Ciclo Unico 6 anni",
+      "language": "English",
+      "link": "https://www.corsi.unina.it/P11"
+    },
+    {
+      "name": "Medicine and surgery",
+      "code": "P63",
+      "department": "DIPARTIMENTO DI SANITA' PUBBLICA",
+      "type": "Laurea Magistrale Ciclo Unico 6 anni",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P63"
+    },
+    {
+      "name": "Bachelor's Degree Courses",
+      "code": "NA",
+      "department": "NA",
+      "type": "Bachelor's Degree",
+      "language": "NA",
+      "link": "https://www.corsi.unina.it/"
+    },
+    {
+      "name": "Departments",
+      "code": "NA",
+      "department": "NA",
+      "type": "NA",
+      "language": "NA",
+      "link": "https://www.corsi.unina.it/dipartimenti"
+    },
+    {
+      "name": "Schools",
+      "code": "NA",
+      "department": "NA",
+      "type": "NA",
+      "language": "NA",
+      "link": "https://www.corsi.unina.it/scuole"
+    },
+    {
+      "name": "Materials science and engineering",
+      "code": "N50",
+      "department": "DIPARTIMENTO DI INGEGNERIA CHIMICA, DEI MATERIALI E DELLA PRODUZIONE INDUSTRIALE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N50"
+    },
+    {
+      "name": "Agricultural, forestry and environmetal sciences",
+      "code": "M99",
+      "department": "DIPARTIMENTO DI AGRARIA",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M99"
+    },
+    {
+      "name": "Biological sciences",
+      "code": "N99",
+      "department": "DIPARTIMENTO DI BIOLOGIA",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N99"
+    },
+    {
+      "name": "Scienze chimiche",
+      "code": "M03",
+      "department": "DIPARTIMENTO DI SCIENZE CHIMICHE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M03"
+    },
+    {
+      "name": "Criminological, investigative and counter cybercrime sciences",
+      "code": "D04",
+      "department": "DIPARTIMENTO DI SCIENZE POLITICHE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/D04"
+    },
+    {
+      "name": "Legal services science",
+      "code": "P47",
+      "department": "DIPARTIMENTO DI GIURISPRUDENZA",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P47"
+    },
+    {
+      "name": "Sciences of aerospace systems for the defence",
+      "code": "P61",
+      "department": "DIPARTIMENTO DI INGEGNERIA INDUSTRIALE",
+      "type": "Laurea Magistrale",
+      "language": "Italian; English",
+      "link": "https://www.corsi.unina.it/P61"
+    },
+    {
+      "name": "Tourism management sciences",
+      "code": "N25",
+      "department": "DIPARTIMENTO DI SCIENZE ECONOMICHE E STATISTICHE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N25"
+    },
+    {
+      "name": "Scienze dell'amministrazione e dell'organizzazione",
+      "code": "M96",
+      "department": "DIPARTIMENTO DI SCIENZE POLITICHE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M96"
+    },
+    {
+      "name": "Architectural sciences",
+      "code": "D05",
+      "department": "DIPARTIMENTO DI ARCHITETTURA",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/D05"
+    },
+    {
+      "name": "Architectural sciences",
+      "code": "N13",
+      "department": "DIPARTIMENTO DI ARCHITETTURA",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N13"
+    },
+    {
+      "name": "Science of human nutrition",
+      "code": "N71",
+      "department": "DIPARTIMENTO DI MEDICINA CLINICA E CHIRURGIA",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N71"
+    },
+    {
+      "name": "Public administration and labour science",
+      "code": "P74",
+      "department": "DIPARTIMENTO DI SCIENZE POLITICHE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P74"
+    },
+    {
+      "name": "Health professions of prevention sciences",
+      "code": "M95",
+      "department": "DIPARTIMENTO DI SANITA' PUBBLICA",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M95"
+    },
+    {
+      "name": "Health professions of technical sciences (assistential)",
+      "code": "M94",
+      "department": "DIPARTIMENTO DI SCIENZE BIOMEDICHE AVANZATE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M94"
+    },
+    {
+      "name": "Health professions of technical sciences (diagnostic)",
+      "code": "M93",
+      "department": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M93"
+    },
+    {
+      "name": "Psychological sciences and techniques",
+      "code": "D33",
+      "department": "DIPARTIMENTO DI STUDI UMANISTICI",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/D33"
+    },
+    {
+      "name": "Agricultural science and technology",
+      "code": "N09",
+      "department": "DIPARTIMENTO DI AGRARIA",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N09"
+    },
+    {
+      "name": "Food science and technology",
+      "code": "N06",
+      "department": "DIPARTIMENTO DI AGRARIA",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N06"
+    },
+    {
+      "name": "Science and technolgy of industrial chemistry",
+      "code": "M04",
+      "department": "DIPARTIMENTO DI SCIENZE CHIMICHE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M04"
+    },
+    {
+      "name": "Sciences and technologies in animal production",
+      "code": "N74",
+      "department": "DIPARTIMENTO DI MEDICINA VETERINARIA E PRODUZIONI ANIMALI",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N74"
+    },
+    {
+      "name": "Herbal sciences and technologies",
+      "code": "P69",
+      "department": "DIPARTIMENTO DI FARMACIA",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P69"
+    },
+    {
+      "name": "Wine science",
+      "code": "P21",
+      "department": "DIPARTIMENTO DI AGRARIA",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P21"
+    },
+    {
+      "name": "Forestry and environmental sciences",
+      "code": "N08",
+      "department": "DIPARTIMENTO DI AGRARIA",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N08"
+    },
+    {
+      "name": "Scienze gastronomiche mediterranee",
+      "code": "P26",
+      "department": "DIPARTIMENTO DI AGRARIA",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P26"
+    },
+    {
+      "name": "1 st degree geological sciences",
+      "code": "N90",
+      "department": "DIPARTIMENTO DI SCIENZE DELLA TERRA, DELL'AMBIENTE E RISORSE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N90"
+    },
+    {
+      "name": "Nursing and midwifery sciences",
+      "code": "M91",
+      "department": "DIPARTIMENTO DI NEUROSCIENZE E SCIENZE RIPRODUTTIVE ED ODONTOSTOMATOLOGICHE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M91"
+    },
+    {
+      "name": "Scienze naturali",
+      "code": "M05",
+      "department": "DIPARTIMENTO DI BIOLOGIA",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M05"
+    },
+    {
+      "name": "Nutraceutical sciences",
+      "code": "P06",
+      "department": "DIPARTIMENTO DI FARMACIA",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P06"
+    },
+    {
+      "name": "Scienze per la natura e per l'ambiente",
+      "code": "P29",
+      "department": "DIPARTIMENTO DI BIOLOGIA",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P29"
+    },
+    {
+      "name": "Political science",
+      "code": "M06",
+      "department": "DIPARTIMENTO DI SCIENZE POLITICHE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M06"
+    },
+    {
+      "name": "Health professions of rehabilitation sciences",
+      "code": "M92",
+      "department": "DIPARTIMENTO DI NEUROSCIENZE E SCIENZE RIPRODUTTIVE ED ODONTOSTOMATOLOGICHE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M92"
+    },
+    {
+      "name": "Scienze statistiche per le decisioni",
+      "code": "M10",
+      "department": "DIPARTIMENTO DI SCIENZE POLITICHE",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M10"
+    },
+    {
+      "name": "Historical sciences",
+      "code": "N68",
+      "department": "DIPARTIMENTO DI STUDI UMANISTICI",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N68"
+    },
+    {
+      "name": "Social service",
+      "code": "N67",
+      "department": "DIPARTIMENTO DI SCIENZE POLITICHE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N67"
+    },
+    {
+      "name": "Sociology",
+      "code": "M13",
+      "department": "DIPARTIMENTO DI SCIENZE SOCIALI",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M13"
+    },
+    {
+      "name": "Digital sociology and web analysis",
+      "code": "P41",
+      "department": "DIPARTIMENTO DI SCIENZE SOCIALI",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P41"
+    },
+    {
+      "name": "Statistica per l'impresa e la societa'",
+      "code": "P28",
+      "department": "DIPARTIMENTO DI SCIENZE POLITICHE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P28"
+    },
+    {
+      "name": "History",
+      "code": "N69",
+      "department": "DIPARTIMENTO DI STUDI UMANISTICI",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N69"
+    },
+    {
+      "name": "Sustainable food systems",
+      "code": "D02",
+      "department": "DIPARTIMENTO DI AGRARIA",
+      "type": "Laurea Magistrale",
+      "language": "English",
+      "link": "https://www.corsi.unina.it/D02"
+    },
+    {
+      "name": "Sustainable development and territorial networks",
+      "code": "P40",
+      "department": "DIPARTIMENTO DI ARCHITETTURA",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P40"
+    },
+    {
+      "name": "Audiometric techniques",
+      "code": "M81",
+      "department": "DIPARTIMENTO DI NEUROSCIENZE E SCIENZE RIPRODUTTIVE ED ODONTOSTOMATOLOGICHE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M81"
+    },
+    {
+      "name": "Audioprothesic techniques",
+      "code": "M86",
+      "department": "DIPARTIMENTO DI NEUROSCIENZE E SCIENZE RIPRODUTTIVE ED ODONTOSTOMATOLOGICHE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M86"
+    },
+    {
+      "name": "Environment and workplace prevention techniques",
+      "code": "D25",
+      "department": "DIPARTIMENTO DI SANITA' PUBBLICA",
+      "type": "Laurea",
+      "language": "Italian; English",
+      "link": "https://www.corsi.unina.it/D25"
+    },
+    {
+      "name": "Cardiocirculatory and cardiovascular perfusion techniques",
+      "code": "M87",
+      "department": "DIPARTIMENTO DI SCIENZE BIOMEDICHE AVANZATE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M87"
+    },
+    {
+      "name": "Biomedical laboratory techniques",
+      "code": "M82",
+      "department": "DIPARTIMENTO DI MEDICINA MOLECOLARE E BIOTECNOLOGIE MEDICHE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M82"
+    },
+    {
+      "name": "Neurophysiopathology techniques",
+      "code": "M84",
+      "department": "DIPARTIMENTO DI NEUROSCIENZE E SCIENZE RIPRODUTTIVE ED ODONTOSTOMATOLOGICHE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M84"
+    },
+    {
+      "name": "Imaging and radiotherapy techniques",
+      "code": "M83",
+      "department": "DIPARTIMENTO DI SCIENZE BIOMEDICHE AVANZATE",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M83"
+    },
+    {
+      "name": "Orthopaedics techniques",
+      "code": "M85",
+      "department": "DIPARTIMENTO DI SANITA' PUBBLICA",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/M85"
+    },
+    {
+      "name": "Food technology",
+      "code": "N10",
+      "department": "DIPARTIMENTO DI AGRARIA",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N10"
+    },
+    {
+      "name": "Technologies in animal productions",
+      "code": "N72",
+      "department": "DIPARTIMENTO DI MEDICINA VETERINARIA E PRODUZIONI ANIMALI",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N72"
+    },
+    {
+      "name": "Chemistry and enviromental toxicology",
+      "code": "P22",
+      "department": "DIPARTIMENTO DI FARMACIA",
+      "type": "Laurea Magistrale",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/P22"
+    },
+    {
+      "name": "Transportation engineering and mobility",
+      "code": "P55",
+      "department": "DIPARTIMENTO DI INGEGNERIA CIVILE, EDILE E AMBIENTALE",
+      "type": "Laurea Magistrale",
+      "language": "English",
+      "link": "https://www.corsi.unina.it/P55"
+    },
+    {
+      "name": "Viticulture and enology",
+      "code": "N03",
+      "department": "DIPARTIMENTO DI AGRARIA",
+      "type": "Laurea",
+      "language": "Italian",
+      "link": "https://www.corsi.unina.it/N03"
+    }
+  ]
+}
