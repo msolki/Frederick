@@ -1,0 +1,34 @@
+"Code" Unique identifier assigned to the course.
+
+"Phased out" Indicates whether the course has been discontinued or not.
+
+"Name" The title of the course in the original language (e.g., Italian).
+
+"English name" The course title translated into English.
+
+"Coordinator" The person responsible for overseeing the course.
+
+"Contacts" Contact information for the course coordinator, including email address and other relevant details.
+
+"Website" A link to a website related to the course, such as its official homepage or a departmental site.
+
+"Students' opinions" Feedback from students who have taken the course, available for specific academic years.
+
+"Course type" The level of academic degree offered by the course (e.g., Bachelor's, Master's, Ph.D.).
+
+"Duration" The length of time it takes to complete the course.
+
+"Language" The language in which the course is taught.
+
+"Degree class" The classification of the degree awarded by the course (e.g., specific field of study).
+
+"Activation year" The year in which the course was first offered.
+
+"School" The school or faculty within the university that offers the course.
+
+"Department" The department within the school that offers the course.
+
+"Locations" The location(s) where the course is taught.
+
+"Course Homepage" A link to the official website of the course, often including details about the course syllabus, schedule, and instructor contact
+information.
